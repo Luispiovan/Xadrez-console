@@ -1,0 +1,13 @@
+E:\Faculdade\Programação O.O\Curso C# Completo\Códigos fonte\xadrez-console-master\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.exe.config
+E:\Faculdade\Programação O.O\Curso C# Completo\Códigos fonte\xadrez-console-master\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.exe
+E:\Faculdade\Programação O.O\Curso C# Completo\Códigos fonte\xadrez-console-master\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.pdb
+E:\Faculdade\Programação O.O\Curso C# Completo\Códigos fonte\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.csprojAssemblyReference.cache
+E:\Faculdade\Programação O.O\Curso C# Completo\Códigos fonte\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.csproj.CoreCompileInputs.cache
+E:\Faculdade\Programação O.O\Curso C# Completo\Códigos fonte\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.exe
+E:\Faculdade\Programação O.O\Curso C# Completo\Códigos fonte\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.pdb
+C:\Users\luis.costa\Documents\xadrez-console-master\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.exe.config
+C:\Users\luis.costa\Documents\xadrez-console-master\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.exe
+C:\Users\luis.costa\Documents\xadrez-console-master\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.pdb
+C:\Users\luis.costa\Documents\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.csprojAssemblyReference.cache
+C:\Users\luis.costa\Documents\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.exe
+C:\Users\luis.costa\Documents\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.pdb
